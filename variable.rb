@@ -1,2 +1,2 @@
-"#{greeting}"
+#{greeting}
 greeting = "Hello World"
