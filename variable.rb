@@ -1,4 +1,4 @@
 begin
- "#{greeting}"
+ "#{Hello World}"
  "#greeting"  {Hello World}"
  end
